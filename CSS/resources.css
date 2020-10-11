@@ -85,17 +85,18 @@ margin-top: 15%;
 }
 
 footer{
-    margin-top: 25%;
+    margin-top: 20%;
     text-align: center;
     background-color: #e22627;
     color: #f4f4f4;
     font-size: 16px;
     font-weight: bold;
-    min-height: 80px;
+    min-height: 60px;
+    overflow: hidden;
 }
 footer p{
-    padding-top:50px;
-    padding-bottom: 50px;
+    padding-top:30px;
+    padding-bottom: 30px;
 }
 @media(max-width: 415px) {
     li{
@@ -107,7 +108,9 @@ footer p{
         text-align: center;
         margin-right: 40px;
     }
-
+    footer{
+        font-size: 14px;
+    }
 }
 @media(max-width: 600px) {
     header #logo , header nav , header li{
@@ -120,7 +123,9 @@ footer p{
     #show a{
         display: block;
         font-size: 16px;
+        margin-top: 50px;
     }
+
 
 }
 @media (max-width: 1025px) {
@@ -130,7 +135,9 @@ footer p{
     footer {
         margin-top: 70%;
     }
-
+    .person p{
+        margin-top: 10px;
+    }
 }
 
 

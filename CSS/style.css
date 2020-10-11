@@ -21,8 +21,7 @@ header{
     min-height: 100px;
     border-bottom: #f4f4f4 solid 1px;
     padding-top:25px;
-    position: fixed;
-    width: 100%;
+      width: 100%;
 }
 a{
     color: #f4f4f4;
@@ -95,6 +94,7 @@ float: right;
      width: 35%;
      height: 60%;
     margin-right: 125px;
+
  }
 #pic img{
     margin-top: 100px;
@@ -107,52 +107,39 @@ float: right;
 
 video{
     width: 80%;
-    margin-left: 8%;
+    margin-left: 7%;
 
 }
 footer{
-  margin-top: 200px;
+  margin-top: 15%;
     text-align: center;
     background-color: #e22627;
     color: #f4f4f4;
     font-size: 16px;
     font-weight: bold;
-  min-height: 80px;
+  min-height: 60px;
+    overflow: hidden;
 }
 footer p{
     padding-top: 50px;
     padding-bottom: 50px;
 }
-@media(max-width: 666px) {
-  header #logo , header nav , header li{
-       float: none;
-       text-align: center;
-      width: 100%;
-   }
-    #show h1{
-        font-size: 12px;
-    }
-    #pic img{
-        width: 100%;
-        margin-top:10px ;
-    }
-    #pic{
-        margin-left: 20%;
 
-    }
-    .box{
-        border: black solid 1px;
-    }
-}
 @media(max-width: 376px) {
     li{
         display: block;
         padding-top: 10px;
     }
-
   nav a{
       text-align: center;
       margin-right: 40px;
+  }
+  #pic{
+      margin-left: 500px;
+      width: 100%;
+      border: black 1px solid;
+
+
   }
 }
 @media(max-width: 1500px) {
@@ -174,19 +161,7 @@ footer p{
     }
 
 }
-@media(max-width: 1140px) {
-    .box {
-        float: none;
-        font-size: 14px;
-        width: 100%;
-    }
-    #pic{
-        float: none;
-        width: 50%;
 
-    }
-
-}
 @media(max-width: 1900px){
     #show h1{
         font-size: 37px;
@@ -225,7 +200,56 @@ footer p{
     }
 
 }
+@media(max-width: 1140px) {
+    .box {
+        float: none;
+        font-size: 14px;
+        width: 100%;
+    }
+    #pic{
+        float: none;
+        width: 100%;
+        margin-left: 150px;
+    }
+    #pic img{
+    margin-top: 40px;
+    }
 
+}
+@media (max-width: 905px){
+    #pic{
+        margin-left: 100px;
+    }
+
+}
+@media (max-width: 784px){
+    #pic{
+        margin-left: 50px;
+    }
+
+}
+@media (max-width: 750px){
+    #pic{
+        width: 100%;
+        margin-left: 20px;
+    }
+    #pic img{
+        width: 75%;
+    }
+
+}
+@media(max-width: 666px) {
+    header #logo , header nav , header li{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    #show h1{
+        font-size: 12px;
+    }
+
+
+}
 
 
 

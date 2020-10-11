@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1a7d7e3-e502-43cc-aafb-161c7318efd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CSS/aboutus.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/aboutus.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/resources.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html/resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ijKhmwRuxzDIIltDsRxd6Tk2zg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1a7d7e3-e502-43cc-aafb-161c7318efd3" name="Default Changelist" comment="" />
+      <created>1602415683065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602415683065</updated>
+      <workItem from="1602415684145" duration="4471000" />
+      <workItem from="1602420586073" duration="772000" />
+      <workItem from="1602428751716" duration="2669000" />
+      <workItem from="1602437638260" duration="33000" />
+      <workItem from="1602437681369" duration="4327000" />
+      <workItem from="1602442559647" duration="9135000" />
+      <workItem from="1602453635428" duration="343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="187" key="#Inspections" timestamp="1602449665966">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="187" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1602449665966" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602437815673">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1602437815673" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1602453646282">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1602453646282" />
+  </component>
+</project>
