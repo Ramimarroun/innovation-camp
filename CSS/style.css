@@ -19,7 +19,7 @@ header{
     background-color: #e22627;
     color: #fffbff;
     min-height: 100px;
-    border-bottom: #f4f4f4 solid 4px;
+    border-bottom: #f4f4f4 solid 1px;
     padding-top:25px;
       width: 100%;
 }
@@ -55,6 +55,7 @@ li{
 nav{
 float: right;
     margin-top: 30px;
+
 }
 #show{
    min-height: 600px;
@@ -63,7 +64,6 @@ float: right;
     background-size: cover;
     background-position: center;
     color: #f4f4f4;
-    border-bottom:#e22627 solid 4px;
 
 }
 #show h1{
@@ -72,6 +72,7 @@ float: right;
     width: 65%;
     margin-left: 20%;
     color:#f4f4f4;
+
 }
 #first{
     margin-top: 50px;
@@ -92,6 +93,7 @@ float: right;
      width: 35%;
      height: 60%;
     margin-right: 125px;
+
  }
 #pic img{
     margin-top: 100px;
@@ -129,6 +131,7 @@ footer p{
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
 @media(max-width: 376px) {
     li{
         display: block;
@@ -141,6 +144,8 @@ footer p{
   #pic{
       margin-left: 500px;
       width: 100%;
+
+
   }
 }
 @media(max-width: 1500px) {
@@ -160,7 +165,9 @@ footer p{
         width: 50%;
 
     }
+
 }
+
 @media(max-width: 1900px){
     #show h1{
         font-size: 37px;

@@ -20,7 +20,7 @@ header{
     background-color: #e22627;
     color: #fffbff;
     min-height: 100px;
-    border-bottom: #f4f4f4 solid 4px;
+    border-bottom: #f4f4f4 solid 1px;
     padding-top:25px;
 }
 a{
