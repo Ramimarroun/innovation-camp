@@ -22,9 +22,6 @@
     <list default="true" id="f1a7d7e3-e502-43cc-aafb-161c7318efd3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/aboutus.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/aboutus.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/resources.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,7 @@
       <workItem from="1602466053168" duration="4167000" />
       <workItem from="1602472044124" duration="3809000" />
       <workItem from="1602477027188" duration="1360000" />
-      <workItem from="1602495003619" duration="1831000" />
+      <workItem from="1602495003619" duration="2662000" />
     </task>
     <task id="LOCAL-00001" summary="config">
       <created>1602472338330</created>
