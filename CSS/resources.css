@@ -99,7 +99,6 @@ footer p{
     padding-bottom: 30px;
 }
 
-
 @media(max-width: 971px) {
     #show a{
         display: block;
@@ -127,7 +126,6 @@ footer p{
 
     nav li{
         text-align: center;
-        border: black 1px solid;
         padding: 15px;
          }
 
