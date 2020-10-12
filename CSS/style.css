@@ -19,7 +19,7 @@ header{
     background-color: #e22627;
     color: #fffbff;
     min-height: 100px;
-    border-bottom: #f4f4f4 solid 4px;
+    border-bottom: #f4f4f4 solid 1px;
     padding-top:25px;
       width: 100%;
 }
@@ -64,12 +64,11 @@ float: right;
     background-size: cover;
     background-position: center;
     color: #f4f4f4;
-    border-bottom: #e22627 solid 4px;
 
 }
 #show h1{
     margin-top: 300px;
-    font-size: 25px;
+    font-size: 40px;
     width: 65%;
     margin-left: 20%;
     color:#f4f4f4;
@@ -102,9 +101,8 @@ float: right;
 }
 
 #media h1{
-
-    font-size: 20px;
-    text-align: center;
+    margin-left: 25%;
+    font-size: 3vw;
 }
 #media p{
     margin-left: 6%;
@@ -117,6 +115,7 @@ float: right;
 video{
     width: 80%;
     margin-left: 7%;
+
 }
 footer{
   margin-top: 10%;
@@ -136,7 +135,7 @@ footer p{
 @media(max-width: 376px) {
     li{
         display: block;
-        padding-top: 10px;
+        padding: 15px;
     }
   nav a{
       text-align: center;
@@ -145,6 +144,7 @@ footer p{
   #pic{
       margin-left: 500px;
       width: 100%;
+
 
   }
 }
@@ -163,7 +163,38 @@ footer p{
     #pic{
         margin-right: 85px;
         width: 50%;
+
     }
+
+}
+
+@media(max-width: 1900px){
+    #show h1{
+        font-size: 37px;
+        width: 65%;
+    }
+
+}
+@media(max-width: 1800px){
+    #show h1{
+        font-size: 34px;
+        width: 65%;
+    }
+
+}
+@media(max-width: 1700px){
+    #show h1{
+        font-size: 30px;
+        width: 65%;
+    }
+
+}
+@media(max-width: 1600px){
+    #show h1{
+        font-size: 25px;
+        width: 65%;
+    }
+
 }
 
 @media(max-width: 1100px) {
@@ -173,6 +204,7 @@ footer p{
     nav{
         margin-top: 10px;
     }
+
 }
 @media(max-width: 1140px) {
     .box {
@@ -188,16 +220,19 @@ footer p{
     #pic img{
     margin-top: 40px;
     }
+
 }
 @media (max-width: 905px){
     #pic{
         margin-left: 100px;
     }
+
 }
 @media (max-width: 784px){
     #pic{
         margin-left: 50px;
     }
+
 }
 @media (max-width: 750px){
     #pic{
@@ -207,6 +242,7 @@ footer p{
     #pic img{
         width: 75%;
     }
+
 }
 @media(max-width: 666px) {
     header #logo , header nav , header li{
@@ -214,6 +250,10 @@ footer p{
         text-align: center;
         width: 100%;
     }
+    #show h1{
+        font-size: 25px;
+    }
+
 
 }
 

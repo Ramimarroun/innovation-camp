@@ -98,34 +98,14 @@ footer p{
     padding-top:30px;
     padding-bottom: 30px;
 }
-@media(max-width: 415px) {
-    li{
-        display: block;
-        padding-top: 10px;
-    }
 
-    nav a{
-        text-align: center;
-        margin-right: 40px;
-    }
-    footer{
-        font-size: 14px;
-    }
-}
-@media(max-width: 600px) {
-    header #logo , header nav , header li{
-        float: none;
-        text-align: center;
-        width: 100%;
-    }
-}
+
 @media(max-width: 971px) {
     #show a{
         display: block;
         font-size: 16px;
         margin-top: 50px;
     }
-
 
 }
 @media (max-width: 1025px) {
@@ -139,6 +119,55 @@ footer p{
         margin-top: 10px;
     }
 }
+
+
+
+<!--  -->
+@media(max-width: 448px) {
+
+    nav li{
+        text-align: center;
+        border: black 1px solid;
+        padding: 15px;
+         }
+
+}
+
+@media(max-width: 376px) {
+    li{
+        display: block;
+        padding-top: 10px;
+    }
+    nav a{
+        text-align: center;
+        margin-right: 40px;
+    }
+
+}
+
+@media(max-width: 1100px) {
+    #logo{
+        width: 40%;
+    }
+    nav{
+        margin-top: 10px;
+    }
+
+}
+
+@media(max-width: 666px) {
+    header #logo , header nav , header li{
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+
+
+
+}
+
+
+
 
 
 
