@@ -19,7 +19,7 @@ header{
     background-color: #e22627;
     color: #fffbff;
     min-height: 100px;
-    border-bottom: #f4f4f4 solid 1px;
+    border-bottom: #f4f4f4 solid 4px;
     padding-top:25px;
       width: 100%;
 }
@@ -64,6 +64,7 @@ float: right;
     background-size: cover;
     background-position: center;
     color: #f4f4f4;
+    border-bottom: #e22627 solid 4px;
 
 }
 #show h1{
