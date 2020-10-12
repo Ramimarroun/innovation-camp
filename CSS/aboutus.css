@@ -1,0 +1,207 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
+    position: relative;
+}
+.current{
+    background-color: #f4f4f4;
+    color: #e22627;
+}
+.container{
+    width: 90%;
+    margin: auto;
+
+}
+header{
+    background-color: #e22627;
+    color: #fffbff;
+    min-height: 100px;
+    border-bottom: #f4f4f4 solid 1px;
+    padding-top:25px;
+}
+a{
+    color: #f4f4f4;
+    text-decoration:none;
+    text-transform: uppercase;
+    font-size: 15px;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: #f4f4f4;
+    color: #e22627;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    float: left;
+    padding: 0 30px 0 30px;
+    display: inline;
+    list-style-type: none;
+}
+#logo{
+    float: left;
+    width: 40%;
+
+}
+#logo img{
+    width: 40%;
+}
+nav{
+    float: right;
+    margin-top: 30px;
+    width: 40%;
+}
+#team {
+    margin-top: 5%;
+    min-height: 250px;
+
+}
+#team h1{
+    text-align: center;
+    font-size: 2em;
+}
+.person {
+    border: #e22627 solid 3px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px #c5bebf;;
+    background-color: #f4f4f4;
+    width: 20%;
+    float: left;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-size: 16px;
+    margin-left: 100px;
+    height: 450px;
+   }
+.person p{
+    line-height: 2;
+}
+.person h2{
+    text-align: center;
+}
+.person img{
+    width: 40%;
+    margin-left: 30%;
+    padding-top: 5px;
+}
+
+footer{
+    margin-top: 30%;
+    text-align: center;
+    background-color: #e22627;
+    color: #f4f4f4;
+    font-size: 16px;
+    font-weight: bold;
+    min-height: 50px;
+    overflow: hidden;
+}
+footer p{
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+@media (max-width: 1089px) {
+    nav{
+       margin-right:50px;
+    }
+    li{
+        padding: 0 20px 0 20px;
+    }
+}
+@media (max-width: 1025px) {
+
+
+
+}
+@media (max-width: 993px) {
+    #logo, nav,li{
+        float: none;
+        text-align: center;
+    }
+    #logo{
+        margin-left:30%;
+    }
+        nav{
+        margin-bottom: 10px;
+        width: 100%;
+    }
+        .person{
+            float: none;
+            height: 200px;
+            width: 80%;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            margin-left: 10%;
+            padding-left: 3px;
+            padding-right: 3px;
+        }
+        .person img{
+            width:15%;
+            margin-left: 45%;
+        }
+        .person h2, .person p{
+            font-size: 14px;
+            margin-top: 0;
+            margin-left: 1px;
+            margin-bottom: 0;
+        }
+    #team{
+        height: 600px;
+        margin-top: 100px;
+    }
+
+}
+@media(max-width: 527px) {
+    #team {
+        height: 700px;
+    }
+}
+@media (max-width: 376px) {
+    li{
+        padding: 0;
+    }
+    .person{
+        height: 225px;
+    }
+    footer p{
+       font-size: 14px;
+    }
+    #team {
+        height: 800px;
+    }
+}
+@media (max-width: 305px) {
+    li{
+        padding: 0;
+    }
+    .person{
+        height: 275px;
+    }
+    footer p{
+        font-size: 14px;
+    }
+    footer{
+        min-height: 100px;
+        margin-top: 10px;
+    }
+    #team {
+        height: 950px;
+        margin-top: 100px;
+    }
+
+
+}
+
+
+
+
+
+
+
